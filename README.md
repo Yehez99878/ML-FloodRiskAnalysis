@@ -30,6 +30,6 @@ Berdasarkan metrik evaluasi (Mean Absolute Error, Mean Squared Error, dan R-Squa
 | Lars | 0.806497 | 0.998246 | 0.000764 |
 
 ## 🚀 Cara Menjalankan
-1. *Clone repository* ini ke komputer lokal Anda:
+Jika anda ingin mencobanya, *Clone repository* ini ke komputer lokal Anda:
    ```bash
    git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
